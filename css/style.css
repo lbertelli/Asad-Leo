@@ -1,0 +1,23 @@
+div.product {
+    display: flex;
+    border: 1px solid rgb(8, 8, 8);
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+button.btn {
+    background-color: rgb(218, 142, 44);
+
+}
+
+div.level {
+    background-color: rgb(100, 100, 88);
+}
+
+nav.nav-bar {
+    visibility: hidden;
+
+}
